@@ -5,8 +5,9 @@ module.exports = {
     extend: {
       colors: {
         grey: "hsl(0, 0%, 20%)",
-        "dark-grey": "hsl(0, 0%, 12%)",
+        darkgrey: "hsl(0, 0%, 12%)",
         black: "hsl(0, 0%, 8%)",
+        green: "hsl(75, 94%, 57%)",
       },
       fontFamily: {
         sans: ["Inter", "sans-serif"],
@@ -16,7 +17,7 @@ module.exports = {
       },
       fontWeight: {
         normal: 400,
-        "semi-bold": 600,
+        semibold: 600,
         bold: 700,
       },
     },
